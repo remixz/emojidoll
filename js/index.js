@@ -14,7 +14,7 @@ var parts = {
     right_arm: ['iphone', 'wine_glass', 'cocktail', 'handbag', 'briefcase', 'icecream', 'cookie', 'basketball', 'moneybag', 'video_game', 'telephone_receiver', 'tada', 'hocho', 'syringe', 'violin', 'guitar', 'closed_umbrella', '+1', '-1', 'point_right', 'pizza', 'poultry_leg', 'meat_on_bone', 'notebook', 'ledger', 'notebook_with_decorative_cover', 'postal_horn', 'art', 'clapper', 'football', 'rugby_football']
 }
 var template = '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;%s<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;%s<br>%s%s%s<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;%s%s<br>'
-var tweetTemplate = '    %s \n    %s \n  %s%s%s\n   %s%s\n';
+var tweetTemplate = 'My emojidoll.js doll!\n    %s \n    %s \n%s%s%s\n   %s%s\n';
 
 var holder = document.querySelector('.holder');
 
