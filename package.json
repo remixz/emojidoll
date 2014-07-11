@@ -1,0 +1,18 @@
+{
+  "name": "emojidoll",
+  "version": "0.0.0",
+  "description": "emojidoll.js",
+  "dependencies": {
+    "fastclick": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/remixz/emojidoll.git"
+  },
+  "author": "Zach Bruggeman <mail@bruggie.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/remixz/emojidoll/issues"
+  },
+  "homepage": "https://github.com/remixz/emojidoll"
+}
