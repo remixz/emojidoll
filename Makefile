@@ -1,6 +1,6 @@
 build:
 dev:
-	lessc stylesheet.less > stylesheet.css
-	browserify index.js > bundle.js
+	lessc --clean-css css/stylesheet.less > css/stylesheet.css
+	browserify js/index.js | uglifyjs > js/bundle.js
 
 .PHONY: build dev

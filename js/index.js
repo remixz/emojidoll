@@ -1,5 +1,5 @@
 var sprintf = require('util').format;
-var emoji = require('./emoji/emoji.js');
+var emoji = require('../emoji/emoji.js');
 emoji.allow_native = false;
 
 var fastclick = require('fastclick');
